@@ -1,0 +1,4 @@
+The “Individual household electric power consumption” dataset is openly
+available from the UC Irvine Machine Learning Repository: 
+
+https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
